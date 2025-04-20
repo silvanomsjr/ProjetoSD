@@ -9,6 +9,9 @@
 
 ### Build do Projeto
 
+> Não acho que seja necessário gerar o código proto novamente, já que os arquivos buildados já estão inseridos no projeto final, caso tenha algum problema com o gRPC, é só buildar novamente
+
+
 ```bash
 # Gera o código gRPC do protobuf
 protoc --go_out=. --go_opt=paths=source_relative \
@@ -18,7 +21,6 @@ protoc --go_out=. --go_opt=paths=source_relative \
 # Faz o build do projeto todo
 go build
 ```
-
 
 ## Rodando
 
@@ -31,7 +33,6 @@ mosquitto
 ```
 
 Logo após, já podemos observar as flags existentes no projeto buildando com a flag "--help":
-
 
 ```bash
 ./ProjetoKVS --help
@@ -47,7 +48,6 @@ Usage of ./ProjetoKVS:
     	A porta do servidor (default 50051)
 ```
 
-
 Para rodar de forma que passe em todos os testes, devemos abrir 3, terminais (ou utilizar Tmux).
 
 E em cada um deles, rodar:
@@ -59,6 +59,5 @@ E em cada um deles, rodar:
 
 ./ProjetoKVS --port="9002"
 ```
-
 
 Após isso, devemos utilizar o código de "kvs-client-2024-2" para que rodemos o cliente em Rust, de tal maneira, o projeto já estara 100% funcional e implementando todas as tecnologias necessárias.
