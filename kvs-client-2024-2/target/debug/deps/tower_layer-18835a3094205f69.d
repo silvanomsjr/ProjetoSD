@@ -1,0 +1,11 @@
+/home/dotin/documents/faculdade/SD/Projeto/kvs-client-2024-2/target/debug/deps/libtower_layer-18835a3094205f69.rmeta: /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-layer-0.3.2/src/lib.rs /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-layer-0.3.2/src/identity.rs /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-layer-0.3.2/src/layer_fn.rs /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-layer-0.3.2/src/stack.rs /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-layer-0.3.2/src/tuple.rs
+
+/home/dotin/documents/faculdade/SD/Projeto/kvs-client-2024-2/target/debug/deps/libtower_layer-18835a3094205f69.rlib: /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-layer-0.3.2/src/lib.rs /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-layer-0.3.2/src/identity.rs /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-layer-0.3.2/src/layer_fn.rs /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-layer-0.3.2/src/stack.rs /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-layer-0.3.2/src/tuple.rs
+
+/home/dotin/documents/faculdade/SD/Projeto/kvs-client-2024-2/target/debug/deps/tower_layer-18835a3094205f69.d: /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-layer-0.3.2/src/lib.rs /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-layer-0.3.2/src/identity.rs /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-layer-0.3.2/src/layer_fn.rs /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-layer-0.3.2/src/stack.rs /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-layer-0.3.2/src/tuple.rs
+
+/home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-layer-0.3.2/src/lib.rs:
+/home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-layer-0.3.2/src/identity.rs:
+/home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-layer-0.3.2/src/layer_fn.rs:
+/home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-layer-0.3.2/src/stack.rs:
+/home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/tower-layer-0.3.2/src/tuple.rs:

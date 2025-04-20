@@ -1,0 +1,12 @@
+/home/dotin/documents/faculdade/SD/Projeto/kvs-client-2024-2/target/debug/deps/libanstyle-f425eb94a103327e.rmeta: /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/lib.rs /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/macros.rs /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/color.rs /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/effect.rs /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/reset.rs /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/style.rs
+
+/home/dotin/documents/faculdade/SD/Projeto/kvs-client-2024-2/target/debug/deps/libanstyle-f425eb94a103327e.rlib: /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/lib.rs /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/macros.rs /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/color.rs /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/effect.rs /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/reset.rs /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/style.rs
+
+/home/dotin/documents/faculdade/SD/Projeto/kvs-client-2024-2/target/debug/deps/anstyle-f425eb94a103327e.d: /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/lib.rs /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/macros.rs /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/color.rs /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/effect.rs /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/reset.rs /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/style.rs
+
+/home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/lib.rs:
+/home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/macros.rs:
+/home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/color.rs:
+/home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/effect.rs:
+/home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/reset.rs:
+/home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/anstyle-1.0.8/src/style.rs:

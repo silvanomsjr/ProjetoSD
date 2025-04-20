@@ -1,0 +1,11 @@
+/home/dotin/documents/faculdade/SD/Projeto/kvs-client-2024-2/target/debug/deps/libsocket2-9238c1de159aaeb1.rmeta: /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.7/src/lib.rs /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.7/src/sockaddr.rs /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.7/src/socket.rs /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.7/src/sockref.rs /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.7/src/sys/unix.rs
+
+/home/dotin/documents/faculdade/SD/Projeto/kvs-client-2024-2/target/debug/deps/libsocket2-9238c1de159aaeb1.rlib: /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.7/src/lib.rs /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.7/src/sockaddr.rs /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.7/src/socket.rs /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.7/src/sockref.rs /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.7/src/sys/unix.rs
+
+/home/dotin/documents/faculdade/SD/Projeto/kvs-client-2024-2/target/debug/deps/socket2-9238c1de159aaeb1.d: /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.7/src/lib.rs /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.7/src/sockaddr.rs /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.7/src/socket.rs /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.7/src/sockref.rs /home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.7/src/sys/unix.rs
+
+/home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.7/src/lib.rs:
+/home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.7/src/sockaddr.rs:
+/home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.7/src/socket.rs:
+/home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.7/src/sockref.rs:
+/home/dotin/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.7/src/sys/unix.rs:
