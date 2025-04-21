@@ -11,6 +11,19 @@
 
 > Não acho que seja necessário gerar o código proto novamente, já que os arquivos buildados já estão inseridos no projeto final, caso tenha algum problema com o gRPC, é só buildar novamente
 
+Rode o Build o projeto atráves do ShellScript `compile.sh`:
+
+```bash
+./compile.sh
+```
+
+Talvez será necessário ter o binário do Go no seu PATH:
+
+```bash
+export PATH="$PATH:$(go env GOPATH)/bin"
+```
+
+OU, você pode compilar você mesmo:
 
 ```bash
 # Gera o código gRPC do protobuf
@@ -58,6 +71,15 @@ E em cada um deles, rodar:
 ./ProjetoKVS --port="9001"
 
 ./ProjetoKVS --port="9002"
+```
+
+OU, utilizar o ShellScript para isso:
+
+```bash
+./server.sh <porta>
+
+// Exemplo
+./server.sh 9001
 ```
 
 Após isso, devemos utilizar o código de "kvs-client-2024-2" para que rodemos o cliente em Rust, de tal maneira, o projeto já estara 100% funcional e implementando todas as tecnologias necessárias.
