@@ -270,7 +270,7 @@ const file_proto_kvs_proto_rawDesc = "" +
 	".kvs.Tupla\"\x00(\x010\x01\x123\n" +
 	"\fRemoveVarias\x12\x10.kvs.ChaveVersao\x1a\v.kvs.Versao\"\x00(\x010\x01\x12'\n" +
 	"\bSnapshot\x12\v.kvs.Versao\x1a\n" +
-	".kvs.Tupla\"\x000\x01B!P\x01Z\x1dgithub.com/username/kvs/protob\x06proto3"
+	".kvs.Tupla\"\x000\x01B\x1fZ\x1dgithub.com/username/kvs/protob\x06proto3"
 
 var (
 	file_proto_kvs_proto_rawDescOnce sync.Once
